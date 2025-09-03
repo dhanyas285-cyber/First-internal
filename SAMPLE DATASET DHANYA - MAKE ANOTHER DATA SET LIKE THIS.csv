@@ -1,0 +1,51 @@
+order_id,customer_id,restaurant_id,delivery_partner_id,order_value,delivery_time,status,timestamp,locality
+2001,CUST_011,Taco Time,DP_11,32.5,40,delivered,2025-09-05 18:05:00,Sunset Heights
+2002,CUST_012,The Thai House,DP_12,55,48,delivered,2025-09-05 18:10:00,Bayfront
+2003,CUST_013,BBQ Bliss,DP_13,21.9,35,delivered,2025-09-05 18:15:00,Hilltop
+2004,CUST_014,Coffee Cravings,DP_14,88,60,delivered,2025-09-05 18:20:00,Meadowbrook
+2005,CUST_015,The Sushi Spot,DP_15,42,38,delivered,2025-09-05 18:25:00,Lakeside
+2006,CUST_011,The Burger Joint,DP_16,65,52,delivered,2025-09-05 19:00:00,Downtown
+2007,CUST_016,Taco Time,DP_17,28.5,45,delivered,2025-09-05 19:10:00,Sunset Heights
+2008,CUST_017,The Thai House,DP_18,70,55,delivered,2025-09-05 19:20:00,Bayfront
+2009,CUST_018,BBQ Bliss,DP_19,25,30,delivered,2025-09-05 19:25:00,Hilltop
+2010,CUST_019,Coffee Cravings,DP_20,48,42,delivered,2025-09-05 19:30:00,Meadowbrook
+2011,CUST_020,The Sushi Spot,DP_11,35.5,35,delivered,2025-09-05 20:05:00,Lakeside
+2012,CUST_011,The Pizza Place,DP_12,130,65,delivered,2025-09-05 20:15:00,Downtown
+2013,CUST_012,The Burger Joint,DP_13,62,45,delivered,2025-09-05 20:20:00,Sunset Heights
+2014,CUST_013,The Waffle House,DP_14,95,58,delivered,2025-09-05 20:25:00,Bayfront
+2015,CUST_014,The Hot Dog Hub,DP_15,50,40,delivered,2025-09-05 20:30:00,Hilltop
+2016,CUST_015,Taco Time,DP_16,29,30,delivered,2025-09-06 18:00:00,Meadowbrook
+2017,CUST_016,The Thai House,DP_17,40,50,canceled,2025-09-06 18:10:00,Lakeside
+2018,CUST_017,BBQ Bliss,DP_18,24.5,35,delivered,2025-09-06 18:15:00,Downtown
+2019,CUST_018,Coffee Cravings,DP_19,75,58,delivered,2025-09-06 18:20:00,Sunset Heights
+2020,CUST_019,The Sushi Spot,DP_20,35,45,delivered,2025-09-06 18:25:00,Bayfront
+2021,CUST_020,The Pizza Place,DP_11,105,55,delivered,2025-09-06 19:00:00,Hilltop
+2022,CUST_011,The Burger Joint,DP_12,85,60,delivered,2025-09-06 19:10:00,Meadowbrook
+2023,CUST_012,The Waffle House,DP_13,48,40,delivered,2025-09-06 19:20:00,Lakeside
+2024,CUST_013,The Hot Dog Hub,DP_14,19,32,delivered,2025-09-06 19:25:00,Downtown
+2025,CUST_014,Taco Time,DP_15,45,50,delivered,2025-09-06 19:30:00,Sunset Heights
+2026,CUST_015,The Thai House,DP_16,60,55,delivered,2025-09-06 20:05:00,Bayfront
+2027,CUST_016,BBQ Bliss,DP_17,25,38,delivered,2025-09-06 20:15:00,Hilltop
+2028,CUST_017,Coffee Cravings,DP_18,75,65,delivered,2025-09-06 20:20:00,Meadowbrook
+2029,CUST_018,The Sushi Spot,DP_19,35,40,delivered,2025-09-06 20:25:00,Lakeside
+2030,CUST_019,The Pizza Place,DP_20,55,48,delivered,2025-09-06 20:30:00,Downtown
+2031,CUST_020,The Burger Joint,DP_11,30,35,delivered,2025-09-07 18:00:00,Sunset Heights
+2032,CUST_011,The Waffle House,DP_12,40.5,45,delivered,2025-09-07 18:10:00,Bayfront
+2033,CUST_012,The Hot Dog Hub,DP_13,70,55,delivered,2025-09-07 18:15:00,Hilltop
+2034,CUST_013,Taco Time,DP_14,22,32,delivered,2025-09-07 18:20:00,Meadowbrook
+2035,CUST_014,The Thai House,DP_15,80,60,delivered,2025-09-07 18:25:00,Lakeside
+2036,CUST_015,BBQ Bliss,DP_16,25,35,delivered,2025-09-07 19:00:00,Downtown
+2037,CUST_016,Coffee Cravings,DP_17,55,50,delivered,2025-09-07 19:10:00,Sunset Heights
+2038,CUST_017,The Sushi Spot,DP_18,40,45,delivered,2025-09-07 19:20:00,Bayfront
+2039,CUST_018,The Pizza Place,DP_19,100,60,canceled,2025-09-07 19:25:00,Hilltop
+2040,CUST_019,The Burger Joint,DP_20,50,50,delivered,2025-09-07 19:30:00,Meadowbrook
+2041,CUST_020,The Waffle House,DP_11,30,40,delivered,2025-09-07 20:05:00,Lakeside
+2042,CUST_011,The Hot Dog Hub,DP_12,90,55,delivered,2025-09-07 20:15:00,Downtown
+2043,CUST_012,Taco Time,DP_13,60,45,delivered,2025-09-07 20:20:00,Sunset Heights
+2044,CUST_013,The Thai House,DP_14,28.5,40,delivered,2025-09-07 20:25:00,Bayfront
+2045,CUST_014,BBQ Bliss,DP_15,75,55,delivered,2025-09-07 20:30:00,Hilltop
+2046,CUST_015,Coffee Cravings,DP_16,22,35,delivered,2025-09-08 18:00:00,Meadowbrook
+2047,CUST_016,The Sushi Spot,DP_17,45,45,delivered,2025-09-08 18:10:00,Lakeside
+2048,CUST_017,The Pizza Place,DP_18,60,50,delivered,2025-09-08 18:15:00,Downtown
+2049,CUST_018,The Burger Joint,DP_19,80,60,canceled,2025-09-08 18:20:00,Sunset Heights
+2050,CUST_019,The Waffle House,DP_20,50,45,delivered,2025-09-08 18:25:00,Bayfront
